@@ -8,4 +8,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EscenaInicio.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LoginEscena.unity
+    guid: 3dea7189f4ddfbe4f8659facc40682a4
+  - enabled: 1
+    path: Assets/Scenes/EscenasProfesor/AsignarEjercicios.unity
+    guid: a21fcbb87b3858246a2c8454ad13d21a
+  - enabled: 1
+    path: Assets/Scenes/EscenasProfesor/ClaseX.unity
+    guid: e6cd28c0234baef42880b95d79ff74d4
+  - enabled: 1
+    path: Assets/Scenes/EscenasProfesor/EleccionRoles.unity
+    guid: 9ef02a2040f03804a9af756b8c10ce7d
+  - enabled: 1
+    path: Assets/Scenes/EscenasProfesor/InicioProfesor.unity
+    guid: 7be24ceacae2ace468b06f46bd7c244b
+  - enabled: 1
+    path: Assets/Scenes/EscenasProfesor/Resultados.unity
+    guid: 05e0b296b8f284541a1c4f24d52f28e5
+  - enabled: 1
+    path: Assets/Scenes/EscenasAlumno/EjercicioN.unity
+    guid: ec4431a330e4a954599c916ca4a2ad73
+  - enabled: 1
+    path: Assets/Scenes/EscenasAlumno/Ejercicios.unity
+    guid: c315b748a14c84848b57ab3a94cecbdb
+  - enabled: 1
+    path: Assets/Scenes/EscenasAlumno/InicioAlumno.unity
+    guid: ecd709aaea09f664fa53c545ea58e625
+  - enabled: 1
+    path: Assets/Scenes/EscenasAlumno/Teoria.unity
+    guid: 054c6f5352670b8419b262f6df06dbf6
   m_configObjects: {}
